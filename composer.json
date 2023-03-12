@@ -1,0 +1,6 @@
+{
+    "name": "gragot/partes-direcciones",
+    "description": "Comunidades autónomas y provincias de España en csv",
+    "type": "library",
+    "license": "MIT"
+}
